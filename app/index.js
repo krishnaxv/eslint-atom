@@ -3,7 +3,7 @@ const range = [
 ];
 
 function convert(number) {
-  document.write(number);
+  console.log(number)
 }
 
 range.map(convert);
